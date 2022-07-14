@@ -1,0 +1,5 @@
+com\wjc\config\ServletContainersInitConfig.class
+com\wjc\domain\Book.class
+com\wjc\config\SpringMVCConfig.class
+com\wjc\config\SpringMVCSupport.class
+com\wjc\controller\BookController.class

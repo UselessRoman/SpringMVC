@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo3" />
+        <module name="demo4" />
+        <module name="ssm_demo1" />
         <module name="demo1" />
         <module name="demo2" />
       </profile>
@@ -14,7 +16,9 @@
     <bytecodeTargetLevel>
       <module name="demo1" target="1.8" />
       <module name="demo2" target="1.8" />
-      <module name="demo3" target="1.7" />
+      <module name="demo3" target="1.8" />
+      <module name="demo4" target="1.8" />
+      <module name="ssm_demo1" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
